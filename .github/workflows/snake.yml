@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12h
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,8 +16,10 @@ jobs:
         with:
           github_user_name: oRodolfo
           outputs: dist/snake-dark.svg
-          color_snake: "#1ABC9C"
-          palette: "github-dark"
+          # cor da cobra
+          color_snake: "#22c55e"
+          # paleta dark (fundo + 4 intensidades)
+          color_dots: "#161B22,#0e4429,#006d32,#26a641,#39d353"
 
       - name: Publicar no branch "output"
         uses: crazy-max/ghaction-github-pages@v4
