@@ -60,6 +60,5 @@
   <img src="https://komarev.com/ghpvc/?username=oRodolfo&color=red" alt="Visualizações do perfil" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oRodolfo/oRodolfo/output/snake.svg" alt="Animação da cobrinha" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/oRodolfo/oRodolfo/output/snake.svg)
+
