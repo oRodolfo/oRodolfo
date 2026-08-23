@@ -1,66 +1,119 @@
 <!-- Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/oRodolfo/oRodolfo/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" alt="banner" />
+<img width="100%" src="https://raw.githubusercontent.com/oRodolfo/oRodolfo/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png" alt="Banner de apresentação de Rodolfo Ribeiro" />
 
-<h1 align="center">👋 Olá, eu sou o Rodolfo Ribeiro</h1>
-
-<p align="center">
-  <strong>Desenvolvedor Back-End | Python | IA | SQL</strong><br>
-  💻 Apaixonado por resolver problemas através da tecnologia e por transformar ideias em soluções eficientes
-</p>
-
----
-
-### 🚀 Sobre mim
-
-🎓 Estudante de Sistemas de Informação pela FHO | Fundação Herminio Ometto.<br>
-🧠 Focado em Back-End com Python, automações com aplicações em projetos educacionais.<br>
-🌱 Atualmente aprendendo mais sobre frameworks, análise de dados e banco de dados<br>
-🎯 Objetivo: construir soluções que unam tecnologia, aprendizado e impacto real.
-
----
-
-### ⚙️ Tecnologias e Ferramentas
+<h1 align="center">Olá, eu sou o Rodolfo Ribeiro 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github&perline=10" />
-  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oRodolfo&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oRodolfo&layout=compact&langs_count=8&theme=radical" />
-</p>
-
----
-
-### 🌟 Projetos em Destaque
-
-| 🧩 Projeto | 💡 Descrição |
-|-------------|-------------|
-| [**Energia para Todos**](https://github.com/oRodolfo/Energia-Para-Todos) | Sistema de distribuição de créditos sociais desenvolvido em Python, aplicando conceitos de POO, persistência de dados e modularização. |
-| [**Simulação de Escalonamento**](https://github.com/oRodolfo/SIMULACAO-ESCALONAMENTO) | Simulador completo de algoritmos de escalonamento (FCFS, SJF, RR, CFS), com geração automática de relatórios interativos em HTML e CSV. |
-
----
-
-### 📬 Contato
-
-<p align="center">
-  <a href="mailto:rodolfo.ribeiro.zanchetta@hotmail.com"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v2.png" width="40"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rodolfozanchetta/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oRodolfo&color=red" alt="Visualizações do perfil" />
+  <strong>Desenvolvimento de Software | Backend Python | Dados & IA</strong><br>
+  Transformo problemas reais em soluções organizadas, rastreáveis e orientadas a resultados.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oRodolfo/oRodolfo/output/snake-dark.svg?v=2" alt="Animação da cobrinha no tema escuro" />
+  <a href="https://www.linkedin.com/in/rodolfozanchetta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rodolfo.ribeiro.zanchetta@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oRodolfo&label=Visualizações+do+perfil&color=6D28D9&style=flat" alt="Contador de visualizações do perfil" />
+</p>
+
+<br>
+
+## 👨‍💻 Sobre mim
+
+```python
+class Rodolfo:
+    def __init__(self):
+        self.localizacao = "Araras, São Paulo, Brasil"
+        self.formacao = "Sistemas de Informação — FHO (2024–2027)"
+        self.buscando = "Estágio em Software, Backend, Dados ou IA"
+        self.foco_atual = ["Python", "Engenharia de Dados", "LLMs"]
+
+    def diferencial(self):
+        return "Transformo necessidades reais em sistemas funcionais, do levantamento à entrega."
+```
+
+Tenho experiência prática com desenvolvimento de APIs, regras de negócio, bancos de dados e IA generativa. No **TechOrder**, atuei como Scrum Master e desenvolvedor backend em uma equipe de cinco integrantes, transformando uma necessidade real do setor de manutenção da FHO em um sistema web funcional. Além disso, desenvolvo projetos individuais em Python aplicando arquitetura modular, análise de dados e integração com LLMs.
+
+- 🌱 Aprofundando conhecimentos em **Python, Engenharia de Dados e Qualidade de Software**
+- 💬 Experiência Prática em **Python, Backend, IA Generativa ou Metodologias Ágeis**
+
+<br>
+
+## 🛠️ Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,vue,js,html,css,tailwind,postgres,git,github,postman,vite&perline=12" alt="Python, Django, Vue.js, JavaScript, HTML, CSS, Tailwind, PostgreSQL, Git, GitHub, Postman e Vite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/IA_Generativa-6D28D9?style=for-the-badge" alt="IA Generativa" />
+  <img src="https://img.shields.io/badge/Groq_%7C_LLaMA-F55036?style=for-the-badge" alt="Groq e LLaMA" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+</p>
+
+<br>
+
+## 🚀 Projetos em destaque
+
+### 🔧 TechOrder — Sistema de Gestão de Ordens de Serviço
+Sistema web criado para substituir o controle manual das solicitações de manutenção da FHO, centralizando o fluxo das ordens de serviço com perfis de acesso, histórico, priorização e indicadores.
+
+| | |
+|---|---|
+| **Minha atuação** | Scrum Master e desenvolvedor backend em equipe de 5 integrantes |
+| **Contribuições** | Mapeamento do fluxo com o cliente, transformação da necessidade em regras de negócio, organização das entregas e desenvolvimento de APIs REST |
+| **Tecnologias** | Python · Django · Vue.js · PostgreSQL/Supabase · JWT · Tailwind CSS · GitHub Projects |
+| **Entrega** | MVP funcional, público e documentado, com imagens e demonstração em vídeo |
+
+<br>
+
+### 💰 Assistente Inteligente de Planejamento Financeiro
+Aplicação em Python que analisa dados financeiros, aplica regras determinísticas e utiliza IA generativa para explicar resultados e sugerir prioridades em linguagem natural.
+
+| | |
+|---|---|
+| **Minha atuação** | Projeto individual, desenvolvido de ponta a ponta |
+| **Decisão técnica** | Os cálculos permanecem no código; o LLM interpreta apenas os resultados estruturados |
+| **Confiabilidade** | Validação de entradas, tratamento de exceções e fallback para falhas de API |
+| **Tecnologias** | Python · POO · Dataclasses · Groq API · LLaMA · python-dotenv |
+
+<br>
+
+### 📊 Simulador de Algoritmos de Escalonamento
+Simulador desenvolvido em Python para comparar FCFS, SJF, Round Robin e CFS por meio de métricas de desempenho e diferentes cenários de execução.
+
+| | |
+|---|---|
+| **Minha atuação** | Projeto individual, da implementação dos algoritmos à análise dos resultados |
+| **Entrega** | Relatórios em HTML, CSV e JSON, gráficos comparativos e documentação técnica em PDF |
+| **Métricas** | Tempo de resposta, retorno, espera, throughput e tempo total de execução |
+| **Tecnologias** | Python · Pandas · NumPy · Matplotlib · Seaborn · Flask · Jinja2 |
+
+<br>
+
+## 🎓 Formação e desenvolvimento
+
+- 🏫 **Bacharelado em Sistemas de Informação** — FHO *(2024–2027)*
+- 📈 **Trilha Python — Engenharia de Dados** — EIA *(em andamento)*
+- ☁️ **GitHub Foundations** — exame agendado
+- 🐍 **Data Engineer** — DataCamp — exame agendado
+
+<br>
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=oRodolfo&theme=tokyonight&hide_border=true"
+    alt="Sequência de contribuições de Rodolfo Ribeiro"
+  />
+</p>
+<br>
+
 
