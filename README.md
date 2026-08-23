@@ -105,15 +105,3 @@ Simulador desenvolvido em Python para comparar FCFS, SJF, Round Robin e CFS por 
 - 🐍 **Data Engineer** — DataCamp — exame agendado
 
 <br>
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=oRodolfo&theme=tokyonight&hide_border=true"
-    alt="Sequência de contribuições de Rodolfo Ribeiro"
-  />
-</p>
-<br>
-
-
