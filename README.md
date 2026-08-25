@@ -40,7 +40,7 @@ class Rodolfo:
 Tenho experiência prática com desenvolvimento de APIs, regras de negócio, bancos de dados e IA generativa. No **TechOrder**, atuei como Scrum Master e desenvolvedor backend em uma equipe de cinco integrantes, transformando uma necessidade real do setor de manutenção da FHO em um sistema web funcional. Além disso, desenvolvo projetos individuais em Python aplicando arquitetura modular, análise de dados e integração com LLMs.
 
 - 🌱 Aprofundando conhecimentos em **Python, Engenharia de Dados e Qualidade de Software**
-- 💬 Experiência Prática em **Python, Backend, IA Generativa ou Metodologias Ágeis**
+- 💻 Experiência Prática em **Python, Backend, IA Generativa e Metodologias Ágeis**
 
 <br>
 
