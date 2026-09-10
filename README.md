@@ -100,8 +100,6 @@ Simulador desenvolvido em Python para comparar FCFS, SJF, Round Robin e CFS por 
 ## 🎓 Formação e desenvolvimento
 
 - 🏫 **Bacharelado em Sistemas de Informação** — FHO *(2024–2027)*
-- 📈 **Trilha Python — Engenharia de Dados** — EIA *(em andamento)*
-- ☁️ **GitHub Foundations** — exame agendado
-- 🐍 **Data Engineer** — DataCamp — exame agendado
+- 📈 **Trilha Python — Engenharia de Dados** — EIA 
 
 <br>
